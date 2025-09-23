@@ -16,8 +16,8 @@ def red_divider(thickness=3):
 
 st.divider()  
 col1, col2 = st.columns(2)
-col1.image("members1.WEBP")
-col2.image("members2.WEBP")
+col1.image("members1.webp")
+col2.image("members2.webp")
 
 # Members section
 st.header("Members")
