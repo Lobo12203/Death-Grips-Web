@@ -66,7 +66,7 @@ col2.write("Steroids-EP")
 col2.write("Face melter-Death Grips EP")
 
 col1.image("https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDVxYndhNDkyMmVqM3c0Z2w2a3RhcnM2aGg3MG9ucDhrZHQ0dmdibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mTnF5u6rWMMZW/giphy.gif")
-col2.image("death minions.WEBP")
+col2.image("death minions.webp")
 st.write("Thats all thanks for reading this page made for 3 fans of death Grips")
 st.write("Authors of the page:")
 st.write("G/0o")
