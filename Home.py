@@ -32,7 +32,7 @@ st.write(
     "in a group called Fyre with his brother, his lyrics are cryptic and surreal with aggressive delivery, "
     "adds punk-like intensity to Death Grips, has not released solo albums outside the group"
 )
-st.image("MCride.JPG")
+st.image("MCride.jpg")
 
 st.header("Zach Hill")
 red_divider()
@@ -43,7 +43,7 @@ st.write(
     "released solo albums including Astrological Straits and Face Tat, collaborated widely and created projects "
     "like the I.L.Y’s with Andy Morin and Undo K from HOT, influenced by experimental rock and avant-garde rhythm styles"
 )
-st.image("Zachhill.WEBP")
+st.image("Zachhill.webp")
 
 st.header("Andy Morin (Flatlander)")
 red_divider()
@@ -54,9 +54,9 @@ st.write(
     "and creative platform, has uploaded solo experimental tracks to SoundCloud, brings the industrial and electronic "
     "influences that shape much of Death Grips’ atmosphere"
 )
-st.image("Andymorin.WEBP")
+st.image("Andymorin.webp")
 
 st.header("Death Grips overall")
 red_divider()
 st.write("their sound blends hip-hop, punk, industrial, noise and electronic music, influenced by acts like björk whose vocals feature on niggas on the moon, they are known for chaotic live shows, cryptic aesthetics and breaking industry norms such as leaking their own albums, records like fashion week (instrumental) and the powers that b (double album) show their experimental approach and refusal to follow conventions")
-st.image("members3.WEBP")
+st.image("members3.webp")
