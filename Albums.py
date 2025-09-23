@@ -10,7 +10,7 @@ st.write("Here is all discography of death grips")
 st.header("1.-Exmilitary(2011)")
 red_divider()
 col1, col2 = st.columns(2)
-col1.image("Exmilitary.WEBP")
+col1.image("Exmilitary.webp")
 col2.write("""
 Exmilitary its the "first" release of the band and one of their best releases to date, this mixtape is what truly put Death Grips on the underground map sounding
 raw aggressiv and untamed and it was released for free online, wich fits perfectly whit their DIY asthetic  and anti-industry standse.
@@ -53,7 +53,7 @@ nviting you to keep listening to their songs.
 But it has something that grabs you like something new.  If don´t like it the first time lisening the album i recomend you lisent and a second time
 because i known its dificult to like this kind of music but please give it a try .
 """)
-col2.image("Backmoneystore.JPG")
+col2.image("Backmoneystore.jpg")
 col1.write("Track List:")
 col1.write("1.-Get Got")
 col1.write("2.-The Fever")
@@ -74,14 +74,14 @@ st.write("Song: Hacker")
 st.header("3.-No Love Deep Web(2012)")
 red_divider()
 col1, col2 = st.columns(2)
-col1.image("Nolove.WEBP")
+col1.image("Nolove.webp")
 col2.write("""
 No Love Deep Web is their third release beeng a diss album because Epic records didn´t want to release the album so they published it in the Deep Web, This is like a rapping
 album(we fell it that way) because mc ride focuses on the letter and beeng like homemade samples and beats but its good at his way.
 Some of the tracks that stand out are Whammy{7}, Vass Rattle Stars Out The Sky{12} because of the beat, No Love{3}.
 
 """)
-col2.image("Noloveback.WEBP")
+col2.image("Noloveback.webp")
 col2.video("https://youtu.be/NOs51Lvhn64?si=ipBaj-h56uHR21vq")
 col2.write("""
 This is the first track of the album it has a high symbolic value, conveying a message that is transmitted throughout the album (We recommend searching for its meaning)
@@ -106,7 +106,7 @@ st.write("Song: Lil Boy")
 st.header("4.-Government Plates(2013)")
 red_divider()
 col1, col2 = st.columns(2)
-col1.image("Government Plates.JPG")
+col1.image("Government Plates.jpg")
 col2.write("""Government Plates is one of the most unique releases in Death Grips' discography. Available for free online, this album represents a return to the band's most experimental and daring side,
 moving away from the direct brutality of No Love Deep Web to delve into more psychedelic territory, full of abstract electronic layers and unconventional structures.
 Here, the sound feels more ethereal and chaotic, as if Death Grips were less interested in creating traditional songs and more in constructing strange and hypnotic soundscapes.
@@ -137,7 +137,7 @@ st.write("Song: You Might Think He Loves You For Your Money, But I Know What He 
 st.header("5.-The Powers That B(2015)")
 red_divider()
 col1, col2 = st.columns(2)
-col1.image("Power.JPG")
+col1.image("Power.jpg")
 col2.write("""
 The Powers That B is perhaps Death Grips' most ambitious project. Divided into two albums—Niggas on the Moon (2014) and Jenny Death (2015)—
 it serves as a dual exploration of what chaos means in their music. While the first volume focuses on extreme electronic experimentation, with a fragmented and almost unpredictable sound,
@@ -178,7 +178,7 @@ st.write("Song: Black Quaterback")
 st.header("6.-Bottomless Pit(2016)")
 red_divider()
 col1, col2 = st.columns(2)
-col1.image("bottom.JPG")
+col1.image("bottom.jpg")
 col2.write("""
 Bottomless Pit is one of the albums that best represents Death Grips' musical maturity. While earlier works such as Exmilitary and The Money Store had a more unpredictable and wild character,
 this album manages to condense all that chaotic energy into a more direct and precise product.
@@ -208,7 +208,7 @@ st.write("Song: Giving Bad People Good Ideas")
 st.header("7.-Year Of The Snitch(2018)")
 red_divider()
 col1, col2 = st.columns(2)
-col1.image("Yearof.JPG")
+col1.image("Yearof.jpg")
 col2.write("""
 Year of the Snitch is probably Death Grips' strangest and most experimental album. Unlike previous albums that felt more direct or charged with fury, here the band delves into much more chaotic territory,
 full of sudden changes, fragmented ideas, and production that defies all expectations. This work sounds like a sonic collage that mixes elements of noise,
